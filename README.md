@@ -1,0 +1,3 @@
+This is a simple keylogger written in Python that tracks your keyboard keystrokes. A keylogger is a program that records the keys pressed on a keyboard, typically without the user's knowledge. This particular keylogger logs all keystrokes to a file named log.txt, allowing you to monitor and analyze the keys that have been pressed.
+
+Keyloggers can be used for various purposes, such as monitoring your own typing habits or detecting unauthorized activity on your computer. However, it is important to note that using keyloggers to monitor other people's keystrokes without their consent is illegal and unethical.
